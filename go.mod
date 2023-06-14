@@ -1,4 +1,4 @@
-module test/qianxiang/main
+module github/pod-lifecycle-monitor/main
 
 go 1.19
 
